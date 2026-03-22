@@ -86,23 +86,13 @@ Built interactive dashboards to monitor:
 - Python (Data Generation - Pandas, NumPy)
 - Power BI (Dashboarding, DAX)
 - Excel (Validation)
-
----
-
-## 📸 Dashboard Preview
-
-### Core Banking Dashboard
-![Dashboard](images/dashboard1.png)
-
-### System Monitoring Dashboard
-![Dashboard](images/dashboard2.png)
-
+  
 ---
 
 ## 🚀 How to Run
 
 1. Run `schema.sql` to create tables  
-2. Execute `data_generation.py` to populate data  
+2. Execute python files to populate data  
 3. Run SQL queries/views  
 4. Open Power BI file (`.pbix`)  
 
@@ -119,5 +109,5 @@ Built interactive dashboards to monitor:
 
 ## 📬 Connect With Me
 
-- LinkedIn: (add your link)
-- GitHub: (your profile link)
+- LinkedIn: https://www.linkedin.com/in/deepak-tetame-198932211
+- GitHub: https://github.com/Deepak-Tetame
